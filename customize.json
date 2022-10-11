@@ -1,9 +1,9 @@
 {
   "greeting": "Hiya",
   "name": "Tanishka",
-  "greetingText": "",
+  "greetingText": "I hope you will like this surprise :)",
   "wishText": "Happy Birthday Tanishka. I hope your day is filled with technology hacks and plenty of coding. Have fun! ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy returns of the day!",
   "sendButtonLabel": "Send",
